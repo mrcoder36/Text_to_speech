@@ -1,4 +1,4 @@
-# speech_to_text_demo
+# text_to_speech_demo
 
 A new Flutter project.
 
